@@ -16,8 +16,9 @@ A Python script that parses Excel-based college timetables and extracts personal
 - Groups output by day for easy reading
 
 ## Requirements
-
-- ```pandas``` from python (pip)
+```
+pip install pandas openpyxl
+```
 
 ## Usage
 - Save your timetable Excel file (Prefer in same directory where your code is present)
