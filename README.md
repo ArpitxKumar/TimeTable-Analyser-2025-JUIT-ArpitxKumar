@@ -35,6 +35,10 @@ python code.py
 
 - Enter your batch code
 
+- If you have **Addtiional subjects,** then prompt yes as directed by terminal
+
+- For **first time,** select the **no** in saved subject list and enter subject **mannually**, and enter a **file name** to save the list with it, then use the **name** to access it
+
 ## How It Works
 - Loads Excel: Reads selected sheet without headers
 
