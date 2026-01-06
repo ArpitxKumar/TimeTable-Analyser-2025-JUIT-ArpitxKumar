@@ -107,7 +107,7 @@ def filter_matrix_by_batch_and_subjects(df, batch_code, subject_codes):
                 "Day": current_day,
                 "Time": format_time_range(time_labels[c]),
                 "Subject": subject,
-                "BatchInfo": batch_info,
+                "Batch Info": batch_info,
                 "Faculty": faculty,
                 "Room": room,
                 "Additional": "√" if subject_match else ""
